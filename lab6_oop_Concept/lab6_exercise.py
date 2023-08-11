@@ -10,7 +10,7 @@ class notbook:
 
         # display object atteibute
     def notbook_info(self):
-            print(f'cpu:{self.cpu} gpu:{self.gpu} ram:{self.ram} display:{self.display} STORAGE:{self.STORAGE} ram:{self.ram} os:{self.os} ')
+            print(f'cpu:{self.cpu} gpu:{self.gpu} ram:{self.ram} display:{self.display} STORAGE:{self.STORAGE}  os:{self.os} ')
 
 std = []
 
